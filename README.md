@@ -25,6 +25,14 @@ This dashboard was designed with a focus on user experience and analytical depth
     -   **Slicers:** To dynamically filter the report by **Year, Country, Product Brand,** and **Customer Gender** via a dedicated filter pane.
     -   **Buttons & Bookmarks:** To create a seamless navigation experience between the main dashboard pages.
     -   **Cross-Filtering:** Enabled powerful interactive analysis where clicking an item (e.g., a store in a table) instantly filters all other visuals on the page for a deeper look.
+ 
+  ---
+
+## 2. Live Demo
+View the live interactive dashboard<br>
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmNkYWY1MmQtMmVmZC00MjY5LTkzZWEtZGMyMDU0ZWQ1N2VmIiwidCI6ImFmNjg3MWE0LWVmNzYtNDI3ZC1iZTYzLTc1ODg1ODZjOTQyNiJ9)
+
+---
 
  ## 🖼️ Dashboard Overview
 
